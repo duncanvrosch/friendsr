@@ -1,4 +1,4 @@
-# friendsr
+# FRIENDSR
 
 ### In deze app kun je je vrienden zien en ze beoordelen met 1 t/m 5 sterren. ###
 
