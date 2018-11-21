@@ -10,7 +10,7 @@ Pagina Marlie:
 
 <img src="https://github.com/duncanvrosch/friendsr/blob/master/doc/Screenshot_20181114-131600.png" width="30%" height="30%"/>
 
-Pagina Colin
+Pagina Colin:
 
 <img src="https://github.com/duncanvrosch/friendsr/blob/master/doc/Screenshot_20181114-131609.png" width="30%" height="30%"/>
 
